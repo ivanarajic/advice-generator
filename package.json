@@ -1,0 +1,14 @@
+{
+  "name": "advice-generator-app-main",
+  "version": "1.0.0",
+  "description": "![Design preview for the Advice generator app coding challenge](./design/desktop-preview.jpg)",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "Ivana Rajic",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.3.2"
+  }
+}
